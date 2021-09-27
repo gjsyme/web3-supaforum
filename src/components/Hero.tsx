@@ -13,5 +13,5 @@ export const Hero = ({ title }: { title: string }) => (
 )
 
 Hero.defaultProps = {
-  title: 'with-chakra-ui-typescript',
+  title: 'The strangest thing happened on our way to configuring a forum...',
 }

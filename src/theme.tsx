@@ -16,6 +16,7 @@ const theme = extendTheme({
   },
   fonts,
   breakpoints,
+  useSystemColorMode: true
 })
 
 export default theme
